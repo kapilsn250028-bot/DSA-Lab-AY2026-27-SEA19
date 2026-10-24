@@ -3,10 +3,10 @@
 
 ## Student Information
 
-- Student Name: Mitesh Chavan
-- Roll Number: SEA 33
+- Student Name: Kapil Sontakke
+- Roll Number: SEA 19
 - Division: ENTC
-- Batch: B
+- Batch: A
 - Course Name: Data Structures and Algorithms (DSA) Laboratory
 - Academic Year: 2026–2027
 - Faculty Name: Dr. Varshaa Degaonkar
